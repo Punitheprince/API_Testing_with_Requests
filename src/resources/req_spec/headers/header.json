@@ -1,0 +1,19 @@
+{
+  "__fetch_req__": "true",
+  "accept": "*/*",
+  "accept-language": "en-US,en;q=0.9",
+  "cache-control": "no-cache",
+  "content-type": "application/json",
+  "platform": "dweb",
+  "pragma": "no-cache",
+  "priority": "u=1, i",
+  "referer": "https://www.swiggy.com/collections/83631?collection_id=83631&search_context=pizza&tags=layout_CCS_Pizza&type=rcv2",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "sec-fetch-dest": "empty",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "Cookie": "__SW=QuLbGPOzmLA4PGO1aHCb0Kx7pImu4MIh; _device_id=f7cc58ab-7b77-4f4d-9ea9-ea724c1501a8; _swuid=f7cc58ab-7b77-4f4d-9ea9-ea724c1501a8; _ga_X3K3CELKLV=GS1.1.1734183529.1.1.1734184113.0.0.0; _ga_YD063E4XCC=GS1.2.1741321474.1.1.1741321609.0.0.0; _ga_76P34S6XQ2=GS1.1.1741321474.1.1.1741321628.0.0.0; _ga_LK8E6WBG6G=GS1.1.1741321474.1.1.1741321628.0.0.0; _ga_8N8XRG907L=GS1.1.1741599338.2.0.1741599338.0.0.0; _ga_0XZC5MS97H=GS1.1.1741599338.2.0.1741599338.0.0.0; _guest_tid=133cc49c-5d27-4a82-a7aa-eed697ae769e; _sid=mj467bee-7dab-4e91-bfe2-2c49f835da2b; _gcl_au=1.1.58496181.1756293286; _gid=GA1.2.1972034067.1756293286; _gat_0=1; userLocation={\"lat\":\"12.97530\",\"lng\":\"77.59100\",\"address\":\"\",\"area\":\"\",\"showUserDefaultAddressHint\":false}; fontsLoaded=1; _ga_YE38MFJRBZ=GS2.1.s1756293285$o1$g1$t1756293290$j55$l0$h0; _ga_34JYJ0BCRN=GS2.1.s1756293285$o4$g1$t1756293290$j55$l0$h0; _ga=GA1.2.593296846.1734182911"
+}
